@@ -1,0 +1,6 @@
+Zadatak nam je kreirati Node Modul koji nam ispituje tip podataka iz vrtijednosti koje smo mu poslali
+Modul je ovisan o lodash biblioteci.
+
+1. Inicijalizirajte node modul u folderu. Dodajte sve nuzne podatke o modulu
+2. Instalirajte lodash paket i dodajte u ovisne pakete (dependencies.)
+3. Bapisite funkciju koja provjerava tip podataka na temelju parametara i ispisuje ju.
